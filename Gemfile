@@ -46,7 +46,7 @@ gem "bootsnap", require: false
 # gem "sassc-rails"
 
 # Simple Form
-gem "simple_form"
+gem 'simple_form'
 
 
 group :development, :test do
